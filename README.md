@@ -29,4 +29,4 @@ The `listPayments` endpoint allows callers to get a list of all payments they've
   
 Update the API so that users can fetch a list of payments by currency.
   
-**Hint**: DynamoDB allows you to add `FilterExpressions` to your queries in order to narrow down your search results. You can find out more about those expressions in the DynamoDB documentation.
+**Hint**: DynamoDB allows you to add `FilterExpressions` to your queries in order to narrow down your search results. You can find out more about those expressions in the DynamoDB documentation.# 23
